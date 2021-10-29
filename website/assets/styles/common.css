@@ -1,0 +1,83 @@
+h1 {
+  text-align: center;
+}
+html,
+body {
+  font-family: serif;
+}
+body {
+  color: rgb(255, 240, 253);
+  background: rgba(0, 0, 10, 0.8);
+  background-image: url(/assets/images/poster.png);
+  background-blend-mode: darken;
+}
+@media screen and (min-width: 870px) {
+  #content {
+    width: 60%;
+    margin: auto;
+  }
+  body {
+    color: rgb(255, 240, 253);
+    background: rgba(0, 0, 10, 0.8);
+    background-image: url(/assets/images/poster.png);
+    background-blend-mode: darken;
+  }
+}
+@media screen and (max-width: 870px) {
+  #content {
+    width: 80%;
+    margin: auto;
+  }
+  body {
+    color: rgb(255, 240, 253);
+    background: rgba(0, 0, 10, 0.8);
+    background-image: url(/assets/images/poster.png);
+    background-blend-mode: darken;
+    background-size: 100%;
+    background-attachment: fixed;
+  }
+}
+#content {
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
+.blood {
+  font-weight: 1000;
+  color: rgb(230, 0, 0);
+}
+
+.reason {
+  color: rgb(230, 0, 0);
+}
+.lia {
+  color: lime;
+}
+
+.emp {
+  color: yellow;
+}
+.map {
+  display: inline-block;
+}
+.exmap {
+  text-align: center;
+}
+.share {
+  text-align: center;
+  margin-bottom: 100px;
+}
+.fab {
+  width: 20%;
+}
+.fa-facebook-f {
+  color: #1877f2;
+}
+
+.fa-twitter {
+  color: #1da1f2;
+}
+
+.fa-line {
+  color: rgb(26, 192, 68);
+}
+/*_*/
