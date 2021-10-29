@@ -7,7 +7,7 @@ web ページは[ここ](https://tct-fes.github.io/haunted-house2021/)
 
 ```
 .
-└───website
+└───docs
     ├───index.html
     └───assets
         ├───images
