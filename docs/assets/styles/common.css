@@ -8,7 +8,7 @@ body {
 body {
   color: rgb(255, 240, 253);
   background: rgba(0, 0, 10, 0.8);
-  background-image: url(/assets/images/poster.png);
+  background-image: url(../images/poster.png);
   background-blend-mode: darken;
 }
 @media screen and (min-width: 870px) {
@@ -19,7 +19,7 @@ body {
   body {
     color: rgb(255, 240, 253);
     background: rgba(0, 0, 10, 0.8);
-    background-image: url(/assets/images/poster.png);
+    background-image: url(../images/poster.png);
     background-blend-mode: darken;
   }
 }
@@ -31,7 +31,7 @@ body {
   body {
     color: rgb(255, 240, 253);
     background: rgba(0, 0, 10, 0.8);
-    background-image: url(/assets/images/poster.png);
+    background-image: url(../images/poster.png);
     background-blend-mode: darken;
     background-size: 100%;
     background-attachment: fixed;
